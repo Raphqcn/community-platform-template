@@ -48,14 +48,3 @@ L'application a été modélisée autour de 5 piliers majeurs :
 | **Intégration Externe** | **API Twitch / Webhooks** | Récupération en temps réel des flux de streaming. |
 
 ---
-
-## 🗄️ Modélisation des Données (Payload Collections)
-
-La structure des données a été pensée de manière relationnelle pour garantir une cohérence maximale :
-
-```text
-  ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
-  │   Players   │───────>│    Teams    │<──────│   Matches   │
-  └─────────────┘       └─────────────┘       └─────────────┘
-         │                                           │
-         └───────────── Réseaux / Stats ─────────────┘
