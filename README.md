@@ -11,7 +11,7 @@ Ce dépôt rassemble l'**architecture technique** et les **spécifications fonct
 L'objectif du projet était de centraliser l'expérience des supporters (matchs en direct, actualités, fiches joueurs) tout en offrant un backoffice autonome et type-safe pour la gestion éditoriale et la gestion des équipes.
 
 > ⚠️ **Note sur le statut du projet :**  
-> Ce projet a été mené lors de la phase d'étude d'architecture et de conception fonctionnelle. Suite à la cessation d'activité et la fermeture de la structure partenaire, la phase de développement applicatif a été suspendue. Ce document sert de **référence d'architecture réutilisable** pour tout projet combinant **Next.js** et **Payload CMS**.
+> Initialement conçu pour une structure e-sportive ayant depuis cessé ses activités, le projet a été réorienté. Le développement est **toujours en cours** (à un rythme ralenti) pour en faire un *starter-kit* / template générique et réutilisable combinant **Next.js** et **Payload CMS**.
 
 ---
 
